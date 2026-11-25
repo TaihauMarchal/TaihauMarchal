@@ -14,7 +14,7 @@
 > *« En aéronautique, la panne n'est pas une option. J'applique la même règle à votre système d'information. »*
 
 21+ years on critical systems in **aviation, banking and hospitality**. As CTO of Phinance SAS I designed
-**WINGGATE**, the operations management system that runs the airports of Tahiti-Faa'a, Bora Bora and Raiatea.
+**WINGGATE**, the operations management system that runs the airports of  Bora Bora , Rangiroa and Raiatea.
 At [Oraclia](https://oraclia.ai) I lead infrastructure, information security and *DSI as a Service*
 (managed IT, outsourced CISO, Microsoft 365 governance, disaster recovery) for clients in French Polynesia,
 New Caledonia and Luxembourg.
