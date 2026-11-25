@@ -41,7 +41,8 @@ under memory pressure, thermals).
 ## 🔧 Upstream contributions — Intel OpenVINO
 
 <!-- CONTRIB-LINKS -->
-*Pull requests to [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) (optimized GatedDeltaNet GPU kernel) and [openvinotoolkit/openvino.genai](https://github.com/openvinotoolkit/openvino.genai) (MTP draft vocabulary subset) — links coming shortly.*
+- 🟢 [**[GPU] Add optimized GatedDeltaNet kernel for single-token decode** — openvinotoolkit/openvino#40286](https://github.com/openvinotoolkit/openvino/pull/40286): 1.4× faster linear-attention decode kernel on Intel GPUs (Qwen3-Next / Qwen3.5 / Qwen3.8 family)
+- ⏳ openvinotoolkit/openvino.genai — MTP draft vocabulary subset (in preparation)
 
 ## 🇫🇷 En bref
 
