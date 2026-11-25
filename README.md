@@ -42,7 +42,8 @@ under memory pressure, thermals).
 
 <!-- CONTRIB-LINKS -->
 - 🟢 [**[GPU] Add optimized GatedDeltaNet kernel for single-token decode** — openvinotoolkit/openvino#40286](https://github.com/openvinotoolkit/openvino/pull/40286): 1.4× faster linear-attention decode kernel on Intel GPUs (Qwen3-Next / Qwen3.5 / Qwen3.8 family)
-- ⏳ openvinotoolkit/openvino.genai — MTP draft vocabulary subset (in preparation)
+- 🟢 [**[MTP] `mtp_draft_vocab` — restrict the MTP draft lm_head to a token subset** — openvinotoolkit/openvino.genai#5029](https://github.com/openvinotoolkit/openvino.genai/pull/5029) (issue [#5027](https://github.com/openvinotoolkit/openvino.genai/issues/5027)): **+20 % decode speed** for MTP speculative decoding, outputs unchanged
+- 💬 [Show and tell: Qwen3.8-27B at 11–13 tokens/s on a laptop iGPU](https://github.com/openvinotoolkit/openvino/discussions/40307)
 
 ## 🇫🇷 En bref
 
